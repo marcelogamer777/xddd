@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+<title>VICTOR-Estructura o Maqueta Básica de una Pagina Web en HTML5</title> 
+<meta name="description" content="turismo Valles">
+<meta name="keywords" content="Cascadas, Micos, Xilitla, Tamasopo, Tirolesa"> 
+</head>
+<body>
+<div id="contenedor" style="width: 1000px; height: 800px;">
+  <header style="width: 1000px; height:150px;">
+    <div id="logo" style="background-color: rgb(184, 240, 237); width: 200px; height:150px; float: left; border:
+     solid right">
+        <img src="captura-de-pantalla-2023-08-02-a-la(s)-13.20.50.png" width="200px" height="150px"> <!--Aquí va el logo-->
+    </div>
+    <div id="slogan" style="background-color: rgb(72, 168, 172); width: 800px; height:150px; float:left;"> 
+       <center> <font font face="Bell MT"; SIZE=8 COLOR="black">DESARROLLADORES WEB </font>
+    </div>
+    </header>
+<nav style="float:both; background-color: rgb(138, 230, 238);"> 
+    <a style="text-decoration:none" href="maqueta2.html"> Inicio |</a>
+    <a style="text-decoration:none"href="maqueta1.html"> Tim Berners-Lee |</a>
+    <a style="text-decoration:none"href="maqueta3.html"> James Gosling |</a>
+    <a style="text-decoration:none"href="maqueta4.html"> Anders Hejlsberg |</a>
+</nav>
+<aside style="background-color:rgb(165, 226, 231); width:200px; height:400px; float:left;">
+    <center><p><font font face="Arial Unicode MS">Se encarga de crear y mantener sitios web y aplicaciones web, consiste en diseñar, codificar,
+       y mantener sitios web y aplicaciones que satisfacen las necesidades de usuarios y clientes.
+       Dividen grandes problemas en tareas manejables y encuentran la forma más efectiva y atractiva 
+       para que sus usuarios interactúen con lo que han creado.</font></p>
+       </center>
+</aside>
+<section style="background-color: rgb(169, 186, 250); width: 800px; height:400px; float:right;">
+    <center><h4> <p><font font face="Arial Unicode MS">Se refiere a la parte técnica de la construcción del sitio web. Los desarrolladores web <br>
+        se enfocan en la codificación y programación del sitio web utilizando lenguajes como HTML, <br>
+        CSS, JavaScript y otros. Su objetivo es que el sitio responda correctamente a las interacciones <br>
+        que realice el usuario en él y concretar un stack tecnológico adecuado.<br>
+        El desarrollo web va de la mano del backend. <br>
+        Se asegura de que el código que sostiene la estructura sea funcional y a su vez lógico. <br>
+        También se hace cargo de la gestión de contenido y la base de datos de la web. </h4> </font> </p></center>
+<article>
+    <center> 
+        <img src="desarrollo-web-scaled-1-scaled.jpg" width="300px" height="200">
+
+</article>
+</section>
+  <footer style="background-color:  rgb(72, 168, 172); color: white;float:both;">
+    <p> Derechos reservados</p> <p>Contactenos en tecmarceloxd@web.com</p>
+  </footer>
+</div>
+</body>
+</html>
